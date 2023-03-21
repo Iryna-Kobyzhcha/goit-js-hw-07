@@ -70,12 +70,6 @@ function checkEsc({ code }) {
 
 
 
-
-
-
-
-
-
 // if(!evt.target.classList.contains('gallery__image')){
 //   return;
 // }
